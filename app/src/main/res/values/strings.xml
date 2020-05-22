@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FirebaseHomework</string>
+    <string name="default_web_client_id_local">1</string>
+    <string name="racer_item_name">Racer</string>
+    <string name="racer_item_team">Team</string>
+    <string name="et_hint_name_creating_dialog">Write name</string>
+    <string name="et_hint_team_creating_dialog">Write team</string>
+    <string name="et_hint_index_creating_dialog">WriteIndex</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7281450262111610~2801286068</string>
+</resources>

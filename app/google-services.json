@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "992016248015",
+    "firebase_url": "https://fir-homework-819ee.firebaseio.com",
+    "project_id": "fir-homework-819ee",
+    "storage_bucket": "fir-homework-819ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:992016248015:android:391e69ba8a9b018e369bba",
+        "android_client_info": {
+          "package_name": "com.kpfu.itis.firebasehomework"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "992016248015-b6mlo4r5e3llpcajlups72kjtpqqfni1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANc1eDg4d90S17okYDZC4CxqVQu5mBRS4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "992016248015-b6mlo4r5e3llpcajlups72kjtpqqfni1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
